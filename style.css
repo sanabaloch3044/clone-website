@@ -1,0 +1,34 @@
+
+
+
+p+h2{ background-color:sienna; color: lightyellow;
+}
+
+p~h4{ background-color: darkseagreen; color: brown;
+
+}
+
+div>p { background-color: sandybrown;
+
+}
+
+h5+p{ background-color: cornsilk;
+
+}
+
+h2  {background-color: darkgoldenrod; color: aliceblue;
+
+}
+
+td a{ color:saddlebrown;
+
+}
+
+p~h3{ background-color: burlywood; color: brown;
+
+}
+
+b+a{ color:white;
+
+}
+b+u{ background-color: sandybrown}
